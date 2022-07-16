@@ -1,16 +1,14 @@
-### Hi there 👋
+Hello! 👋
 
-<!--
-**AgnieszkaGabka/AgnieszkaGabka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am aspiring Backend Developer, currently exploring world of Python. I am fascinated with solving real life problems using simple solutions 🤔.
+I have a passion for logical world of code, and I am constantly exploring new ways to grow in development world 🌱.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently practicing my skills by creating test apps where I can use all the skills I learn.
+
+Find me on LinkedIn: www.linkedin.com/in/agnieszka-gabka or Glitch: https://glitch.com/~agnieszka-gabka
+
+
+
+
+
